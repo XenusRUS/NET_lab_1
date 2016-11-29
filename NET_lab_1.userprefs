@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{97C1D738-B24D-4167-8A25-5BDFE1E3FF66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NET_lab_1/User_Inform.cs">
+    <Files>
+      <File FileName="NET_lab_1/Program.cs" Line="127" Column="56" />
+      <File FileName="NET_lab_1_NUnit_Test/Program_Test.cs" Line="38" Column="61" />
+      <File FileName="NET_lab_1/User_Inform.cs" Line="19" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="NET_lab_1" expanded="True">
+            <Node name="NET_lab_1_NUnit_Test" expanded="True">
+              <Node name="NET_lab_1_NUnit_Test" expanded="True">
+                <Node name="Program_Test" expanded="True" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.NET__lab__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

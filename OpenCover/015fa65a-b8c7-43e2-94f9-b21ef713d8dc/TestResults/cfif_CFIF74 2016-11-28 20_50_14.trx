@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a1d819e1-31eb-42ef-9a29-dbda6460132c" name="cfif@CFIF74 2016-11-28 20:50:14" runUser="CFIF74\cfif" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2016-11-28T20:50:14.6746685+05:00" queuing="2016-11-28T20:50:14.6746685+05:00" start="2016-11-28T20:50:14.3698240+05:00" finish="2016-11-28T20:50:14.7378356+05:00" />
+  <TestSettings name="default" id="4a9eeb52-97cb-48f9-a446-c73a81b676b5">
+    <Execution>
+      <TestTypeSpecific />
+    </Execution>
+    <Deployment runDeploymentRoot="cfif_CFIF74 2016-11-28 20_50_14" />
+    <Properties />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="440e90c9-b2a2-4ddb-84df-71c629856bfc" testId="2738f547-5381-2c18-4a9c-0392a71cefed" testName="Test_Menu" computerName="CFIF74" duration="00:00:00.0244983" startTime="2016-11-28T20:50:14.3698240+05:00" endTime="2016-11-28T20:50:14.5844293+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="440e90c9-b2a2-4ddb-84df-71c629856bfc" />
+    <UnitTestResult executionId="2249f57e-36df-4ca4-87d6-a53fb3d7908f" testId="9026c1ca-f607-ad97-bcde-9b464a18e908" testName="Test_Min_Map" computerName="CFIF74" duration="00:00:00.0017924" startTime="2016-11-28T20:50:14.5934524+05:00" endTime="2016-11-28T20:50:14.5964246+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2249f57e-36df-4ca4-87d6-a53fb3d7908f" />
+    <UnitTestResult executionId="7960ede4-70d3-473e-83d7-205437ebde45" testId="f7c103ac-709d-3a3a-f6e9-2427b34e1d21" testName="Test_Heal_Point" computerName="CFIF74" duration="00:00:00.0018380" startTime="2016-11-28T20:50:14.5964246+05:00" endTime="2016-11-28T20:50:14.5984602+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7960ede4-70d3-473e-83d7-205437ebde45" />
+    <UnitTestResult executionId="f30d4ae2-35bd-42ec-8a98-622dab132706" testId="316e2f08-edd7-fb44-f6c7-92ee52a3f903" testName="Test_Weapon" computerName="CFIF74" duration="00:00:00.0011575" startTime="2016-11-28T20:50:14.5984602+05:00" endTime="2016-11-28T20:50:14.5994335+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f30d4ae2-35bd-42ec-8a98-622dab132706" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Test_Menu" storage="c:\users\cfif\documents\visual studio 2015\projects\net_lab_1\net_lab_1_test\bin\debug\net_lab_1_test.dll" id="2738f547-5381-2c18-4a9c-0392a71cefed">
+      <Execution id="440e90c9-b2a2-4ddb-84df-71c629856bfc" />
+      <TestMethod codeBase="C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_Test\bin\Debug\NET_lab_1_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="NET_lab_1_Test.Program_Test" name="Test_Menu" />
+    </UnitTest>
+    <UnitTest name="Test_Min_Map" storage="c:\users\cfif\documents\visual studio 2015\projects\net_lab_1\net_lab_1_test\bin\debug\net_lab_1_test.dll" id="9026c1ca-f607-ad97-bcde-9b464a18e908">
+      <Execution id="2249f57e-36df-4ca4-87d6-a53fb3d7908f" />
+      <TestMethod codeBase="C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_Test\bin\Debug\NET_lab_1_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="NET_lab_1_Test.Program_Test" name="Test_Min_Map" />
+    </UnitTest>
+    <UnitTest name="Test_Heal_Point" storage="c:\users\cfif\documents\visual studio 2015\projects\net_lab_1\net_lab_1_test\bin\debug\net_lab_1_test.dll" id="f7c103ac-709d-3a3a-f6e9-2427b34e1d21">
+      <Execution id="7960ede4-70d3-473e-83d7-205437ebde45" />
+      <TestMethod codeBase="C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_Test\bin\Debug\NET_lab_1_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="NET_lab_1_Test.Program_Test" name="Test_Heal_Point" />
+    </UnitTest>
+    <UnitTest name="Test_Weapon" storage="c:\users\cfif\documents\visual studio 2015\projects\net_lab_1\net_lab_1_test\bin\debug\net_lab_1_test.dll" id="316e2f08-edd7-fb44-f6c7-92ee52a3f903">
+      <Execution id="f30d4ae2-35bd-42ec-8a98-622dab132706" />
+      <TestMethod codeBase="C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_Test\bin\Debug\NET_lab_1_Test.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter" className="NET_lab_1_Test.Program_Test" name="Test_Weapon" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="2738f547-5381-2c18-4a9c-0392a71cefed" executionId="440e90c9-b2a2-4ddb-84df-71c629856bfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9026c1ca-f607-ad97-bcde-9b464a18e908" executionId="2249f57e-36df-4ca4-87d6-a53fb3d7908f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f7c103ac-709d-3a3a-f6e9-2427b34e1d21" executionId="7960ede4-70d3-473e-83d7-205437ebde45" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="316e2f08-edd7-fb44-f6c7-92ee52a3f903" executionId="f30d4ae2-35bd-42ec-8a98-622dab132706" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

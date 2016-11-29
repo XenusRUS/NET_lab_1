@@ -1,0 +1,5 @@
+NET_lab_1_NUnit_Test.Program_Test.Test_Conrol
+NET_lab_1_NUnit_Test.Program_Test.Test_Enemy
+NET_lab_1_NUnit_Test.Program_Test.Test_Graphic
+NET_lab_1_NUnit_Test.Program_Test.Test_Menu
+NET_lab_1_NUnit_Test.Program_Test.Test_Name_Map

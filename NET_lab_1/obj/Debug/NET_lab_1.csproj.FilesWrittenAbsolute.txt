@@ -1,0 +1,16 @@
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe.config
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe.mdb
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.pdb
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.exe
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.exe.mdb
+/Users/admin/Downloads/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.pdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe.config
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe.mdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.pdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/bin/Debug/NET_lab_1.exe
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.exe
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.exe.mdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1/obj/Debug/NET_lab_1.pdb

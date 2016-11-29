@@ -1,0 +1,6 @@
+c:\users\cfif\documents\visual studio 2015\Projects\NET_lab_1\NET_lab_1\bin\Debug\NET_lab_1.exe.config
+c:\users\cfif\documents\visual studio 2015\Projects\NET_lab_1\NET_lab_1\bin\Debug\NET_lab_1.exe
+c:\users\cfif\documents\visual studio 2015\Projects\NET_lab_1\NET_lab_1\bin\Debug\NET_lab_1.pdb
+c:\users\cfif\documents\visual studio 2015\Projects\NET_lab_1\NET_lab_1\obj\Debug\NET_lab_1.exe
+c:\users\cfif\documents\visual studio 2015\Projects\NET_lab_1\NET_lab_1\obj\Debug\NET_lab_1.pdb
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1\obj\Debug\NET_lab_1.csprojResolveAssemblyReference.cache

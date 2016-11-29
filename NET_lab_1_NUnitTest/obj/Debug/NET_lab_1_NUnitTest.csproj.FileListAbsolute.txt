@@ -1,0 +1,9 @@
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\NET_lab_1_NUnitTest.dll
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\NET_lab_1_NUnitTest.pdb
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\nunit.framework.dll
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\nunit.framework.xml
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\obj\Debug\NET_lab_1_NUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\obj\Debug\NET_lab_1_NUnitTest.dll
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\obj\Debug\NET_lab_1_NUnitTest.pdb
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\NET_lab_1.exe
+C:\Users\cfif\Documents\Visual Studio 2015\Projects\NET_lab_1\NET_lab_1_NUnitTest\bin\Debug\NET_lab_1.pdb

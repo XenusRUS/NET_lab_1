@@ -1,0 +1,10 @@
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1_NUnit_Test.exe.config
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1_NUnit_Test.exe.mdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1_NUnit_Test.exe
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/obj/Debug/NET_lab_1_NUnit_Test.exe
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/obj/Debug/NET_lab_1_NUnit_Test.exe.mdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/nunit.framework.dll
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1.exe
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1.exe.mdb
+/Users/admin/Desktop/NET_lab_1/NET_lab_1_NUnit_Test/bin/Debug/NET_lab_1.pdb
