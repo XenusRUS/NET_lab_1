@@ -113,5 +113,13 @@ namespace NET_lab_1
 
  
             }
+            static void FreeRAM(int i)
+            {
+                Console.WriteLine("dw {0} ", i);
+            }
+            static double FreeSpaceHDD(int i)
+            {
+                return (double)i / 2;
+            }
         }
 }
